@@ -1,1 +1,4 @@
-# imanabid.github.io
+# Data Scientist
+
+### Education
+Physics, Phd
